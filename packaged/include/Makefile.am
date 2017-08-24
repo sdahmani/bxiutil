@@ -7,7 +7,9 @@ cffi_files=\
 		   bxi/util/map.h\
 		   bxi/util/stretch.h\
 		   bxi/util/kvl.h\
-		   bxi/util/vector.h
+		   bxi/util/vector.h\
+		   bxi/util/vn2vc.h
+
 
 #file to be install
 nobase_include_HEADERS = \

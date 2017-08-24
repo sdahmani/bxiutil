@@ -20,7 +20,9 @@ lib_libbxiutil_common_la_SOURCES=\
 		  src/map.c\
 		  src/misc.c\
 		  src/vector.c\
-		  src/stretch.c
+		  src/stretch.c\
+		  src/vn2vc.c
+
 
 lib_libbxiutil_kvl_la_SOURCES=\
 		  src/kvl.c
