@@ -14,5 +14,6 @@
 #define __VN2VC_H__ 
 
 int** compute_vn2vc(int snid, int nid_nb, int* vc_nb);
+int** init_vn2vc(int snid, int nid_nb, int* vc_nb);
 
 #endif
